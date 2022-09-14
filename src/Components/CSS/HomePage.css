@@ -1,0 +1,26 @@
+.app {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  max-width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+body {
+  background-color: white;
+}
+
+.blackback {
+  background: black;
+  height: 60px;
+  margin-top: 0px;
+}
+
+.blackback span {
+  color: #50b7f5;
+  margin-left: 6%;
+  font-weight: bold;
+  font-size: large;
+}
